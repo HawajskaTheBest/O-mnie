@@ -54,19 +54,6 @@ ul li {
   margin-bottom: 5px;
 }
 
-.div1{
-    float: left;
-    width: 250px;
-}
-.div2{
-    float: left;
-    width: 250px;
-}
-.div3{
-    float: left;
-    width: 250px;
-}
-
 a {
   text-decoration:solid, underline;
   color: white; 
@@ -77,4 +64,5 @@ a.back{
    text-decoration:solid, underline;
   color: black; 
   font-weight: bold;    
+
 }
